@@ -1,5 +1,5 @@
 # Intro
-Hello. I am Jordan, a student at Code Fellows in Seattle, Washington. Here is a link to my github portfolio. (https://github.com/Jofleming)
+Hello. I am Jordan, a student at Code Fellows in Seattle, Washington. Here is a link to my github portfolio. [My Github](https://github.com/Jofleming)
 
 # Code 102 Reading
 
