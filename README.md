@@ -6,7 +6,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 
 # Code 102 Reading
 
-- Reading 1
+- [Markdown Reading](markdown.md)
 - Reading 2
 - Reading 3
 - Reading 4
