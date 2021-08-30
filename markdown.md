@@ -1,3 +1,5 @@
 # Notes on Markdown
 
-Markdown allows the manipulation of text on github. We learned how to make headers with # in various amounts. Bolding or itallics, with ** or * respectively. (Or __ and _)
+Markdown allows the manipulation of text on github. We learned how to make headers with # in various amounts. Bolding or itallics, with ** or * respectively. (Or __ and _ )
+Items can be put into various lists. * for unordered. 1 for ordered.
+
