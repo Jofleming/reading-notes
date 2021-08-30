@@ -17,6 +17,6 @@ Hello. I am Jordan, a student at Code Fellows in Seattle, Washington. Here is a 
 
 
 ### Growth Mindset to me means
-1. Embracing struggle as a means of further learning.
+1. **Embracing** struggle as a means of further learning.
 2. Using open ended lines of learning/thinking.
-3. Using every opportunity to grow. The idea of always evolving or moving forward.
+3. Using *every* opportunity to grow. The idea of always evolving or moving forward.
