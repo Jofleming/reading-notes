@@ -6,6 +6,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 
 # Code 102 Reading
 
+- [Growth Mindset](growth-mindset.md)
 - [Reading 1 Markdown Reading](markdown.md)
 - [Reading 2 Coders Computer Reading](coders-computer.md)
 - [Reading 3 Git Intro](git_intro.md)
@@ -15,16 +16,3 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - Reading 7
 - Reading 8
 
-## This is a Heading 2
-### This is a Heading 3
-
-
-### Growth Mindset to me means
-1. **Embracing** struggle as a means of further learning.
-2. Using open ended lines of learning/thinking.
-3. Using *every* opportunity to grow. The idea of always evolving or moving forward.
-
-### Reminders to myself
-- Get pride out of learning. Everyone struggles somewhere. Chase the knowledge, not the feeling of knowing.
-- Engage, ask, and explore. Join others in learning and see what you all can create or overcome.
-- Don't forget to celebrate your accomplishments. Don't look at where you are compared to others, just that you moved forward at all.
