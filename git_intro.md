@@ -2,12 +2,12 @@
 
 ### Version Control
 
-A system that records changes to a file, allowing you to revisit or revert to a previous version, as well as track modificaitons.
+A system that records changes to a file, allowing you to revisit or revert to a previous version, as well as track modifications.
 
 ### Git
 
-Git is a DVCS (Distributed Version Control) that stores data in snapshots. It tracks any changes applied to any file. It has three main states: commited, modified, and staged.
-Commited: Data is securely stored
+Git is a DVCS (Distributed Version Control) that stores data in snapshots. It tracks any changes applied to any file. It has three main states: committed, modified, and staged.
+Committed: Data is securely stored
 Modified: File has been changed, but not yet committed.
 Staged: Flagged a file's changed version to be committed in the next snapshot.
 
