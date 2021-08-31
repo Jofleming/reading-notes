@@ -28,3 +28,5 @@ ls -a will list the contents of a directory including hidden ones.
 - file - what type of file/directory.
 - -a - list contents including hidden of a directory.
 
+
+[Back](README.md)
