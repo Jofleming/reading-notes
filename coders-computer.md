@@ -16,3 +16,15 @@ We learn that ~ is the shortcut for the home directory. .(dot) is reference to t
 cd is the change directory command and helps us move around. `cd[location]`. If none specified it will take you to your home directory.
 file is used to what type a certain file or directory is, since everything is a file to a linux system.
 ls -a will list the contents of a directory including hidden ones.
+
+## Cheat Sheet
+
+- pwd - Present working directory.
+- ls - lists what is in the current directory. Can use with `[option][location]`
+- ~ - home directory
+- . - current directory
+- .. - parent directory
+- cd - change directory. `cd[location]` If none specified location = home.
+- file - what type of file/directory.
+- -a - list contents including hidden of a directory.
+
