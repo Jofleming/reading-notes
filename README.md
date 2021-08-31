@@ -6,9 +6,9 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 
 # Code 102 Reading
 
-- [Markdown Reading](markdown.md)
-- [Coders Computer Reading](coders-computer.md)
-- Reading 3
+- [Reading 1 Markdown Reading](markdown.md)
+- [Reading 2 Coders Computer Reading](coders-computer.md)
+- [Reading 3 Git Intro](git_intro.md)
 - Reading 4
 - Reading 5
 - Reading 6
