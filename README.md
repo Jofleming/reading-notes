@@ -10,7 +10,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Reading 1 Markdown Reading](markdown.md)
 - [Reading 2 Coders Computer Reading](coders-computer.md)
 - [Reading 3 Git Intro](git_intro.md)
-- Reading 4
+- [Reading 4 HTML](html.md)
 - Reading 5
 - Reading 6
 - Reading 7
