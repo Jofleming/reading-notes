@@ -21,4 +21,21 @@ The last read style sheet is the one that will be used. This will be whichever i
 2. External and Internal style sheets. (in the head section)
 3. Browser Default
 
+## Useful tips
+
+To reference CSS sheet add `<link rel="stylesheet" href="style.css" type="text/css">`
+to the head in your HTML under title.
+
+Displays will normally be across the entire page. Can put nav buttons inline by `li{ display: inline}`
+
+`padding` will affect the space between element and border
+
+`margin` will space out elements from each other.
+
+`text-align` center. Will center on middle instead of left.
+
+`#section1` Will be the target element for a section
+
+`.center` Will target the element for a class.
+
 [Back](README.md)
