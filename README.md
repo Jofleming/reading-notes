@@ -12,7 +12,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Reading 3 Git Intro](git_intro.md)
 - [Reading 4 HTML](html.md)
 - [Reading 5 CSS](css.md)
-- Reading 6
+- [Reading 6 JavaScript](javascript.md)
 - Reading 7
 - Reading 8
 
