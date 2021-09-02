@@ -2,7 +2,8 @@
 
 JavaScript (JS) - a lightweight, interpreted, compiled programming language with first class functions. It is used in "functional programming" styles.
 
-```<html>
+``` 
+<html>
 <head>
   <title>Hello World</title>
 </head>
@@ -29,7 +30,8 @@ document.getElementById('say').addEventListener('click', say_hi);
 </script>
  
 </body>
-</html>```
+</html> 
+```
 
 Above is an example of making a box to enter first name, last name, and a button to press.
 
