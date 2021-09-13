@@ -18,6 +18,8 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 
 # Code 201 Reading
 
+- [Code 201 Day 1](class-01.md)
+
 - Reading 1
 - Reading 2
 - Reading 3
