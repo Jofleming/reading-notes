@@ -28,6 +28,7 @@ Both of the above are called empty elements. They contain the element and the cl
 
 
 ## Chapter 10 Introducing CSS (pp.226-245)
+CSS treats each HTML **element** as if it was sitting inside its own box. It uses rules to indicate how that element should work. Rules are made up of selectors that specify which elements, and declarations that indicate what those elements should look like. Declarations are made of two parts: property that you want to change, and the value of said property.
 
 ```
 element selector{
@@ -35,6 +36,27 @@ element selector{
 }
 ```
 The selector idicates what element(s) you are targeting in your HTML. You can select multiple elements at one time by separating them with a comma. You then on one line specifiy what you are changing about it or the **property** (text type, text color, background color, etc). After the colon you type the **value** you are assigning that (Arial, blue, red, etc).
+
+To reference a CSS sheet in the `<head>` of a site use `<link href="css/styles.css" type="text/css" rel="stylesheet" />` This is an empty element so it doesn't need a closing tag. href specifies the path to the CSS file. Type says what type the document is. rel specifies the relationship between the HTML page and the file. The HTML page can use more than one style sheet.
+
+You can also use `<style> </style>` for in line CSS styling. Make sure to add `type="text/css"` in the opening bracket.
+
+CSS selectors are case sensitive:
+`*` - Universal selector. Targets all elements
+`h1, p, body` - Type selector. Targets types of elements
+`.(class element)` - Class selector. Targets all elements with a class listed after the period.
+`#(id attribute)` - ID selector. Targets all elements whose ID value is listed after the hashtag.
+`element>element2` - Child selector. Targets any element 2 that are childen of element 1 but not any other.
+`element element2` - Descendant selector. Targets any element2s that sit inside element1 even if other elements are nested between them.
+`element1+element2` - Adjacent Sibling selector. Targets the first element2 after any element1. (But not other element2s)
+`element1~element2` - General Sibling selector. If you had two element2s that are siblings to element1, this rule would apply to both.
+
+### Cascading
+In CSS the **Last Rule** applies. That last listed style is the one that will be applied. Along with the the most **Specific** rule will take precedence. You can also add `!important` after any <u>property</u> value to make it more important than other rules.
+
+Font-family or color property values are inherited by child elements. If you set something for the `<body>` then everything contained within it will also have that applied. This is not the case for things like background color. You can however force child elements to inherit values by setting a rule with `inherit` **as** the CSS value.
+
+
 
 ## Chapter 2 Basic JavaScript Instructions (pp.53-84)
 
