@@ -37,7 +37,7 @@ element selector{
 ```
 The selector idicates what element(s) you are targeting in your HTML. You can select multiple elements at one time by separating them with a comma. You then on one line specifiy what you are changing about it or the **property** (text type, text color, background color, etc). After the colon you type the **value** you are assigning that (Arial, blue, red, etc).
 
-To reference a CSS sheet in the `<head>` of a site use `<link href="css/styles.css" type="text/css" rel="stylesheet" />` This is an empty element so it doesn't need a closing tag. href specifies the path to the CSS file. Type says what type the document is. rel specifies the relationship between the HTML page and the file. The HTML page can use more than one style sheet.
+To reference a CSS sheet in the `<head>` of a site use `<link href="css/styles.css" type="text/css" rel="stylesheet" />` This is an empty element so it doesn't need a closing tag. href specifies the **path** to the CSS file. Type says what type the document is. rel specifies the relationship between the HTML page and the file. The HTML page can use more than one style sheet.
 
 You can also use `<style> </style>` for in line CSS styling. Make sure to add `type="text/css"` in the opening bracket.
 
