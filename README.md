@@ -21,7 +21,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 201 Day 1](class-01.md)
 - [Code 201 Day 2](class-02.md)
 - [Code 201 Reading 3](201-reading3.md)
-- Reading 4
+- [Code 201 Reading 4](201-reading4.md)
 - Reading 5
 - Reading 6
 - Reading 7
