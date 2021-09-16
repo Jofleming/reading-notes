@@ -19,7 +19,24 @@ Or make a link that brings up a e-mail with a set e-mail in the to field:
 
 Very large. Coming back to, short on time.
 
+
+### Class Notes
+
+Both of the following work with the block model:
+ * Display Property - dictates how sibling elements are displayed next to that element.
+    * block: Elements display themselves across its entire parent element. No other element will appear next to it.
+    * inline-block: tries to take up as much space as possible, but other elements can sit next to it.
+    * inline: Similar to inline-block but cannot set height or width. It is stuck as big as the line.
+
+* Position Properties - dictate how elements are positioned within their parent element.
+    * static: Where parent element thinks it should go it will stay.
+    * relative: An element can position itself relative to its parent.
+    * absolute: Removes an element completely from the layout of its siblings. It ignores them and positions itself relative to parent. This means siblings will also ignore it.
+    * fixed: Ignore everything and positions relative to the browser window.
+
 # Chapter 3 Functions, Methods, and Objects (pp86-99)
+
+### Class Notes
 
 
 
