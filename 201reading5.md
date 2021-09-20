@@ -12,9 +12,9 @@ The size can also be specified directly with the `height` and `width` attributes
 
 ```
 <article>
-  <img src="images/dahlia02.jpg" alt="A photo of a single orange dahlia flower." 
-    title="An orange dahlia from my garden." height="450" width="600">
-  <p>Hey check out my dahlia plant it ...</p>
+  <img src="images/husky0.jpg" alt="Picture of husky running." 
+    title="My husky running through a field." height="450" width="600">
+  <p>Hey check out what I did with my dog this weekend ...</p>
 </article>
 ```
 
@@ -136,13 +136,6 @@ Attribute Selectors
 - `[^=]` prefix  e.g. `p[attr^"c"]`
 - `[*=]` substring e.g. `p[attr*"ca"]`
 - `[$=]` suffix e.g. `p[attr$"t"]`
-
-
-
-
-
-
-
 
 
 ### Class Notes
