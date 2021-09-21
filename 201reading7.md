@@ -191,4 +191,9 @@ Three groups of built in Objects:
 Functions allow you to group a set of unrelated statments together for a single task. They can take parameters (info or data) and may return a value. An object is a series of variables and functions that represent something from the world around you. In an object variables are known as properties while functions are called methods of the object. Browsers have objects that represent both the browswer and the document loaded in it. Javascript also has several built in objects. Some of them are String, Number, Math, and Date. They offer functionality to help you write scripts. Arrays and objects can be used to create complex data sets and both can contain the other.
 
 
+## Class Notes
+
+
+
+
 [Back](README.md)
