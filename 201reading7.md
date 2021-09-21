@@ -193,7 +193,46 @@ Functions allow you to group a set of unrelated statments together for a single 
 
 ## Class Notes
 
+### Object Oriented Programming
+Treating Objects like first class citizens:
+    * All of our functionality in our app, should be "encapsulated" within an object (key value pairs).
+    * Each object has a "class" / "type" / "category"
+    * We create functions that produce these objects for us.
+    * we want to conceptualize our programs into generic terms / behaviors.
+    * Adds security, consistency, and reuseability.
 
+### JS Constructor Functions
+
+JavaScript implements OOP with constructor functions: a function that creates an "instance" of an object.
+    * "Instance" : An object created from a constructor.
+```js
+// Constuctor are often created with first letter Capitalized:
+function Pokemon(name) {
+    // assigns properties onto contextual `this`
+    this.name = name; // If we are creating an instance, assigning properties is required.
+}
+
+// We can create an "instance" of our pokemon using the "new" keyword.
+let Charizard = new Pokemon("Charizard"); // The constructor returns a new object: { name: "Charizard" };
+let Blastoise = new Pokemon("Blastoise");
+```
+
+* Prototypes: the blueprint shared by every object from a constructor.
+* Methods are prefereably defined on a `prototype`.
+
+```js
+Pokemon.prototype.useability = function() {
+
+}
+```
+
+### HTML Tales
+
+They organize tabular data into `rows` and `columns`.
+* Every piece of data belongs in a `<table>` element.
+* The direct childen are row elements: `<tr>`
+* The childen of a `<tr>` is a `<td>`.
+* `<th>` is a table heading. Same thing as a td but it is bold.
 
 
 [Back](README.md)
