@@ -1,4 +1,4 @@
-# Reading 9 Forms and JS Events
+# Reading 8 Forms and JS Events
 
 ## Chapter 7 Forms (pp144.175)
 `<form>` Holds all form controls. This element should carry the action attribute. Normally also having an ID and method.
