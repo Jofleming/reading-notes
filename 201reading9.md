@@ -48,4 +48,38 @@ Forms benefit from styles that make them feel more interactive.
 ### Summary
 Browers indicate something has happened with **events**, like when a page loaded or button has been clicked. **Binding** is the processs of stating which event you are waiting to happen, and which element you are waiting for that to happen upon. When an event occurs on a given element, it can trigger a JS function. This is used to make the page feel responsive to the user. This is done by make the page change in some way using the function when the user does something. You can use event delegation to monitor for events that happen on all of the children of an element. The most commonly use events are W3C DOM events, although HTML5 has others, as well as browser specific events.
 
+
+## Class Notes
+
+### HTML Forms
+
+**Elements that handle user input.**
+
+* Buttons: Clickable element that "does form things"
+* Input: generic text input elements.
+    * type attribute sets the type of value that the input recieves
+* Field Sets: a group of inputs.
+* Legends: A title/label for the fieldset/group of inputs
+* Form: A 'container' element for all inputs that belong to a shared event.
+
+`<fieldset></fieldset` Sets the field for a form
+`<legend></legend>` Give the field a title.
+`<label></label>` Gives a label text box. Used to put next to a input field
+`<button></button>` Makes a button with whatever text you have in between tags on it.
+`required` will give a notification if field is empty
+
+### Browser Events
+
+Our functions are going to be invoked, not explicitly in our code, but by the browser when something happens.
+* We have to define parameters: `function (param) {}` , that we didn't create ourself.
+
+* What events are there?
+    * When mouse moves
+    * when you click on anything.
+        * Right click and left click.
+    * When you hover over things.
+* All of these events are associated with some element / object in the Browser. We access with the DOM.
+* We tap into this by using a method on an element: `addEventListener`
+    * We pass a function into this method, that will run when a specific event happens.
+
 [Back](README.md)
