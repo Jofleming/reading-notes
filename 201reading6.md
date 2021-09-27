@@ -4,7 +4,83 @@
 
 ## Chapter 3 Object Literals (pp.100-105)
 
+In an object, variables become known as properties, and functions become methods.
+Properties comes in key value you pairs.
+
+Literal notation:
+```
+var hotel {
+    name: 'Quay'
+    rooms: 20,
+    booked: 25,
+
+    checkAvailability: function() {
+        return this.rooms - this.booked;
+    }
+}
+```
+The first three are examples of properties with the bottom being a method.
+
+Accessing an object with dot notation:
+
+```
+var hotelName = hotel.name;
+var roomsFree = hotel.checkAvailability();
+```
+The dot is called a member operator.
+`object.property/method` is the default to access a property of an object or method.
+You can also access using square brackets:
+`var hotelName = hotel['name'];`
+
 ## Chapter 5 Document Object Model(pp.183-242)
+
+The DOM is implemented by the browser. When a page is loaded by a browser it creates a DOM tree. The DOM tree is made of:
+* The Document Node: The node at the top of the tree, it represents the entire page. When you access any of the other nodes you do it via the document node.
+
+* Element Nodes: HTML elements describe the structre of an HTML page. After you select an Element you can access its attributes or text.
+
+* Attribute Nodes: 
+
+* Text Nodes: 
+
+### Working with the DOM Tree
+
+Accessing and updating the DOM tree involves two steps:
+1. Locate the node that represents the element you want to work with.
+2. Use its text content, child elements, and attributes.
+
+Step 1: Access the elements
+* Select an individual node
+    * `getElementById()` Uses the value of an element's id attribute.
+    * `querySelector()` Uses a CSS selector, and returns the first matching element.
+* Select Multiple Elements (nodelists)
+    * `getElementsByClassName()` Selects all elements that have a specific value for their class attribute
+    * `getElementsByTagName()` Selects all elements that have the specified tag name.
+    * `querySelectorAll()` Uses a CSS selector to select all matching elements.
+* Traversing Between Element Nodes (you can move from one element node to a related node element)
+    * `parentNode` Selects the parent of the current element node.
+    * `previousSibling/nextSibling` Selects the previous or next sibling from the DOM tree.
+    * `firstChild/lastChild` Select the first or last child of the current element.
+
+Step 2: Work with those elements.
+* Access/update text nodes
+    * `nodeValue` This property lets you access or update contents of a text node
+    1. Select the element node
+    2. Use the correct property to select the text node
+    3. Use the text node's only property (`nodeValue`) to get the text from the element.
+* Work with HTML content.
+    * `innerHTML` property allows access to child elements and text content.
+    * `textContent` for just the text content
+    * Several methods let you create new nodes, add nodes to a tree, and remove nodes:
+        * `createElement()`
+        * `createTextNode()`
+        * `appendChild() / removeChild()`
+* Access or update attribute values.
+    * Here are some of the properties and methods you can use to work with attributes : className / id - lets you get or update the value of the class and id attributes
+    * `hasAttribute()` - Checks if an attribute exists
+    * `getAttribute()` - Gets the attributes value
+    * `setAttribute` - Update the value
+    * `removeAttribute()` - Removes an attribute
 
 
 ## Class Notes
