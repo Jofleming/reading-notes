@@ -4,7 +4,7 @@ Hello. I am Jordan, a student at Code Fellows in Seattle, Washington. This page 
 I have two dogs, Izaya and Eevee who are helping me get through all of this.
 ![Image of Izaya and Eevee](https://user-images.githubusercontent.com/89767349/131391508-e0a3d5f6-f55c-4f55-b102-46600bb16b98.png)
 
-# Code 102 Reading
+## Code 102 - Intro to Software Development
 
 - [Growth Mindset](growth-mindset.md)
 - [Reading 1 Markdown Reading](markdown.md)
@@ -16,7 +16,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Reading 7 Programming with Javascript](programmingwithjs.md)
 - [Reading 8 Operators and Loops](operators-loops.md)
 
-# Code 201 Reading
+## Code 201 - Foundations of Software Development
 
 - [Code 201 Day 1](class-01.md)
 - [Code 201 Day 2](class-02.md)
@@ -33,3 +33,6 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 201 Reading 14](201reading14.md)
 - [Code 201 Reading 14b](201googlereading.md)
 
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
