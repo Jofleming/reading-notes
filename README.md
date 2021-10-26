@@ -34,5 +34,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 201 Reading 14b](201googlereading.md)
 
 ## Code 301 - Intermediate Software Development
+- [Code 301 Reading 1](301reading1.md)
+- [Code 301 Reading 2](301reading2.md)
 
 ## Code 401 - Advanced Software Development
