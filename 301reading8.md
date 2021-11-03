@@ -24,16 +24,16 @@
 - They are web APIs that expose a large number of small resources. They are bad as they have a bigger load.
 
 8. What status code does a successful GET request return?
-- 
+- 200 OK
 
 9. What status code does an unsuccessful GET request return?
-- 
+- 404 Not Found
 
 10. What status code does a successful POST request return?
-- 
+- 201 Created
 
 11. What status code does a successful DELETE request return?
-- 
+- 204 No Content
 
 
 [Back](README.md)
