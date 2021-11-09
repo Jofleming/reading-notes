@@ -45,5 +45,6 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 301 Reading 9](301reading9.md)
 - [Code 301 Reading 10](301reading10.md)
 - [Code 301 Reading 11](301reading11.md)
+- [Code 301 Reading 12](301reading12.md)
 
 ## Code 401 - Advanced Software Development
