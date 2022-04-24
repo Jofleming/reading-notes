@@ -50,6 +50,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 301 Reading 14](301reading14.md)
 
 ## Code 401 - Advanced Software Development
+- [Sql Reading](sqlprework.md)
 - [Growth Mindset 401](growthmindset.md)
 - [Code 401 Reading 1](401reading1.md)
 - [Code 401 Reading 2](401reading2.md)
