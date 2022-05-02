@@ -35,6 +35,19 @@ Questions:
 
 ## 6 Reasons for Pair Programming
 
+There are four fundamental skills that will help learn a new language:
+Listening: hearing and interpreting the vocabulary
+Speaking: using the correct words to communicate an idea
+Reading: understanding what written language intends to convey
+Writing: producing from scratch a meaningful, well structured script
+
+There are 6 reasons given for pair programming:
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from your fellows
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
 
 Questions:
 
