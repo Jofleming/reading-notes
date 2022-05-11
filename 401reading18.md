@@ -26,7 +26,7 @@ There are only 25 possible shifts (not 26 — why not?). The enemy could take so
 
 [Reading](https://en.wikipedia.org/wiki/Caesar_cipher)
 
-The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme, A → 0, B → 1, ..., Z → 25.[2] Encryption of a letter x by a shift n can be described mathematically as,[3]
+The encryption can also be represented using modular arithmetic by first transforming the letters into numbers, according to the scheme, A -> 0, B -> 1, ..., Z -> 25.Encryption of a letter x by a shift n can be described mathematically as,
 
 E_{n}(x) = (x+n)    mod 26
 
