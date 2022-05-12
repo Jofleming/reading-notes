@@ -200,9 +200,36 @@ This splits the strings wherever the pattern matches and returns a list. If the 
 `end()` - Returns the index where the match ends.
 `span()` - Return a tuple containing the (start, end) positions of the match.
 
+### Compilation Flags
+
+An expression's behavior can be modified by specifying a flag value. You can add flags as an extra argument to the different functions that you have seen in this tutorial. Some of the more useful ones are:
+
+* `IGNORECASE (I)` - Allows case-insensitive matches.
+* `DOTALL (S)` - Allows . to match any character, including newline.
+* `MULTILINE (M)` - Allows start of string `(^)` and end of string `($)` anchor to match newlines as well.
+* `VERBOSE (X)` - Allows you to write whitespace and comments within a regular expression to make it more readable.
+
+```
+statement = "Please contact us at: support@DataCamp.com, xyz@DATACAMP.com"
+
+# Using the VERBOSE flag helps understand complex regular expressions
+pattern = re.compile(r"""
+[\w\.-]+ #First part
+@ #Matches @ sign within email addresses
+datacamp.com #Domain
+""", re.X | re.I)
+
+addresses = re.findall(pattern, statement)                       
+for address in addresses:
+    print("Address: ", address)
+```
+
+
 ## Shutil
 
 [Reading](https://pymotw.com/3/shutil/)
+
+
 
 ## Automation Ideas
 
