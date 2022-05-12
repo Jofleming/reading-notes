@@ -1,4 +1,5 @@
 # Intro
+
 Hello. I am Jordan, a student at Code Fellows in Seattle, Washington. This page is a repository of all of my reading notes while I progress through CodeFellows. Here is a link to my github portfolio. [My Github](https://github.com/Jofleming)
 
 I have two dogs, Izaya and Eevee who are helping me get through all of this.
@@ -34,6 +35,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 201 Reading 14b](201googlereading.md)
 
 ## Code 301 - Intermediate Software Development
+
 - [Code 301 Reading 1](301reading1.md)
 - [Code 301 Reading 2](301reading2.md)
 - [Code 301 Reading 3](301reading3.md)
@@ -50,6 +52,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 301 Reading 14](301reading14.md)
 
 ## Code 401 - Advanced Software Development
+
 - [Sql Reading](sqlprework.md)
 - [Growth Mindset 401](growthmindset.md)
 - [Code 401 Reading 1](401reading1.md)
@@ -67,7 +70,7 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 401 Reading 14](401reading14.md)
 - [Code 401 Reading 15](401reading15.md)
 - [Code 401 Reading 16](401reading16.md)
-- [Code 401 Reading 17](401reading17.md)
+- [Code 401 Reading 17]
 - [Code 401 Reading 18](401reading18.md)
 - [Code 401 Reading 19](401reading19.md)
 
