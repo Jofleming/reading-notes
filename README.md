@@ -84,4 +84,9 @@ I have two dogs, Izaya and Eevee who are helping me get through all of this.
 - [Code 401 Reading: Class 36](401reading36.md)
 - [Code 401 Reading: Class 37](401reading37.md)
 - [Code 401 Reading: Class 38](401reading38.md)
+- [Code 401 Reading: Class 39](401reading39.md)
+- [Code 401 Reading: Class 41](401reading41.md)
+- [Code 401 Reading: Class 42](401reading42.md)
+- [Code 401 Reading: Class 42 Ethics](401readingethics.md)
+- [Code 401 Reading: Class 43](401reading43.md)
 
